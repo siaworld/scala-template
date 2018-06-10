@@ -1,0 +1,4 @@
+group 'com.siaworld'
+version '1.0-SNAPSHOT'
+
+apply plugin : 'scala'
